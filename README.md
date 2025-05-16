@@ -32,9 +32,12 @@ Diante desse cenário, a educação e a conscientização são as defesas mais e
 Minha Motivação
 
 Minha transição para a área de Segurança da Informação é movida pela paixão em proteger dados e pessoas no ambiente digital. Acredito que a conscientização é o primeiro passo para um futuro digital mais seguro para todos. Desenvolver este chatbot me permitiu unir meu aprendizado na nova área com o desejo de contribuir ativamente para a segurança da comunidade, tornando conceitos complexos de cibersegurança mais digeríveis e práticos para o dia a dia.
+
 Funcionalidades
 
     Informações sobre Ameaças: Explica sobre os tipos mais comuns de ataques cibernéticos, com foco especial em phishing, explicando como funcionam e como identificá-los.
     Dicas de Prevenção: Oferece conselhos práticos sobre como se proteger online, desde a criação de senhas fortes até o cuidado com links suspeitos.
-    Quiz Interativo: Um quiz divertido e educativo para testar os conhecimentos adquiridos e reforçar o aprendizado sobre cibersegurança.
+    Quiz Interativo: Um educativo para testar os conhecimentos adquiridos e reforçar o aprendizado sobre cibersegurança.
     Respostas a Perguntas Frequentes: Capacidade de responder a perguntas comuns sobre segurança online.
+
+    
