@@ -40,4 +40,11 @@ Funcionalidades
     Quiz Interativo: Um educativo para testar os conhecimentos adquiridos e reforçar o aprendizado sobre cibersegurança.
     Respostas a Perguntas Frequentes: Capacidade de responder a perguntas comuns sobre segurança online.
 
+Contribuição
+
+Contribuições são o que tornam a comunidade open source um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será muito apreciada.
+
+Contato
+
+Seu Nome - [Seu LinkedIn Profile URL]
     
