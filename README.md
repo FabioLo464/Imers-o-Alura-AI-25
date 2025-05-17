@@ -1,7 +1,7 @@
 Imersão Alura 2025 de Chatbot sobre Cibersegurança
 Sobre o Projeto
 
-Bem-vindo ao Conectado e Protegido: Chatbot Interativo! Este chatbot foi desenvolvido como parte da minha participação na Imersão Alura 2025, com o objetivo de disseminar conhecimento sobre cibersegurança de forma interativa e acessível.
+Bem-vindo ao ClaritySec! Este chatbot foi desenvolvido como parte da minha participação na Imersão Alura 2025, com o objetivo de disseminar conhecimento sobre cibersegurança de forma interativa e acessível.
 
 Contexto e a Importância da Cibersegurança:
 
