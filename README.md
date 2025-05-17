@@ -46,5 +46,5 @@ Contribuições são o que tornam a comunidade open source um lugar incrível pa
 
 Contato
 
-Seu Nome - [Seu LinkedIn Profile URL]
+Fábio Lopes - www.linkedin.com/in/fabio-lopes-1a383130a
     
